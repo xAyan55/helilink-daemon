@@ -4,7 +4,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-141323?style=for-the-badge&logo=bun&logoColor=white)
-[![License](https://img.shields.io/github/license/Helilink/daemon)](https://github.com/Helilink/daemon/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/Helilink/daemon)](https://github.com/xAyan55/helilink-daemon/blob/main/LICENSE)
 [![Discord](https://img.shields.io/discord/1302020587316707420)](https://discord.gg/ujXyxwwMHc)
 
 ---
@@ -40,7 +40,7 @@ The HeliLink Daemon is a lightweight agent that runs on each node server. It lis
 
 ```bash
 cd /etc/
-git clone https://github.com/Helilink/daemon.git
+git clone https://github.com/xAyan55/helilink-daemon.git
 cd daemon
 ```
 
@@ -163,7 +163,7 @@ The panel is the brain. The daemon is the hands. Together, they run your game se
 
 ## Links
 
-- Panel: [github.com/helilink/panel](https://github.com/helilink/panel)
+- Panel: [github.com/xAyan55/helilink-panel](https://github.com/xAyan55/helilink-panel)
 - Website: [helilink.xyz](https://helilink.xyz/)
 - Docs: [helilink.xyz/docs/quick-start](https://helilink.xyz/docs/quick-start/)
 - Discord: [discord.gg/ujXyxwwMHc](https://discord.gg/ujXyxwwMHc)
